@@ -1,3 +1,7 @@
+define('WP_POST_REVISIONS', 0);
+
+
+
 Debugging
 // enable debug
 define( 'WP_DEBUG', true );
